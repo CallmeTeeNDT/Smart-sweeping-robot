@@ -1,2 +1,4 @@
 # Smart-sweeping-robot
-This is the topic I did for Embedded systems project.
+Within this archive, the project titled "Smart Sweeping Robot" represents a topic I have explored through both embedded systems and individual project. During the initial implementation phase carried out for my embedded systems assignment, the robot functioned as expected in basic operations. However, as development progressed, several technical limitations became apparent. Specifically, the choice of a compact battery as the primary power source proved inadequate, resulting in inconsistent performance and frequent interruptions in the robot's operation. Additionally, the mechanical design and structural alignment of the chassis lacked precision, causing the robot to veer off course and struggle with directional stability.
+
+Recognizing these shortcomings, I decided to revisit and refine the project independently in my individual project. This allowed me to redesign key aspects of both the power system and structural framework, with the goal of improving overall performance, enhancing movement accuracy, and ensuring the system could operate reliably in practical scenarios.
